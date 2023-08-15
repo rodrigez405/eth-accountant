@@ -3,7 +3,6 @@ include README.md
 
 global-include *.pyi
 
-# For mnemonics
 recursive-include eth_account/hdaccount/wordlist *txt
 
 recursive-exclude * __pycache__
