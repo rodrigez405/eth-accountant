@@ -49,5 +49,5 @@ showcontent = true
 
 [[tool.towncrier.type]]
 directory = "removal"
-name = "Removals"
+name = "Removal"
 showcontent = true
